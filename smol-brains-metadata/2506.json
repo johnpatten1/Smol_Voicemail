@@ -1,0 +1,52 @@
+{
+    "name": "Smol #2506",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 3055,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1339,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "olive"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Smol #12271",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 3191,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "cyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "green"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "fancy-dress"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "blue-lenses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cowboy-hat"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ]
+}

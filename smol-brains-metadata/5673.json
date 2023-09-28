@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #5673",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "cyborg"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "cyber"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "pipe"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0
+        }
+    ]
+}

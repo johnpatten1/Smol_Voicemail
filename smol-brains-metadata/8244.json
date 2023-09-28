@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #8244",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "sweater"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "cyber-glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cowboy-hat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 5
+        }
+    ]
+}

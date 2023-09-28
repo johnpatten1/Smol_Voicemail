@@ -1,0 +1,52 @@
+{
+    "name": "Smol #4844",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 338,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1296,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 1,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "france"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

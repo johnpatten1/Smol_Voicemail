@@ -1,0 +1,52 @@
+{
+    "name": "Smol #4828",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 100,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1305,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 1,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-pink"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}
