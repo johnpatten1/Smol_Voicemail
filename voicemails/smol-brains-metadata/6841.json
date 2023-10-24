@@ -1,0 +1,52 @@
+{
+    "name": "Smol #6841",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 10481,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 298,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark-brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "warlock-fire"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "warlock-fire"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

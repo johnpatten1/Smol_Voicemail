@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #5867",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark-brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 3
+        }
+    ]
+}

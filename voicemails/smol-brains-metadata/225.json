@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #225",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "wizard"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mask"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 5
+        }
+    ]
+}

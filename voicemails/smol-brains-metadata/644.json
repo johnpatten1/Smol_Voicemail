@@ -1,0 +1,52 @@
+{
+    "name": "Smol #644",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 1810,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1148,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

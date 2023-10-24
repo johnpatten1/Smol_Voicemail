@@ -1,0 +1,52 @@
+{
+    "name": "Smol #7723",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 3020,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1046,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "green"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "sleep-mask"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "visor"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "gum"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ]
+}

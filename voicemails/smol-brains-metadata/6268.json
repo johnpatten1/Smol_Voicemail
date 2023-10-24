@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #6268",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "cyan"
+        },
+        {
+            "trait_type": "Body",
+            "value": "black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mask"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0
+        }
+    ]
+}

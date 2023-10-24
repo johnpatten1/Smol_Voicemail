@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #11385",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        },
+        {
+            "trait_type": "Background",
+            "value": "red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "green"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "longsleeve"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "beanie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0
+        }
+    ]
+}

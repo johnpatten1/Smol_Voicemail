@@ -1,0 +1,52 @@
+{
+    "name": "Smol #162",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 1206,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "prisoner"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-pink"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

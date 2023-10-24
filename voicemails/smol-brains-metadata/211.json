@@ -1,0 +1,52 @@
+{
+    "name": "Smol #211",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 1519,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1115,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark-brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "none"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "pipe"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

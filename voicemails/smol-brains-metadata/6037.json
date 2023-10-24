@@ -1,0 +1,52 @@
+{
+    "name": "Smol #6037",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 2007,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1343,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark-brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "cyborg"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "armor"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #102",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 5
+        }
+    ]
+}

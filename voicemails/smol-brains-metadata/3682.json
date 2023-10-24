@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #3682",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark-brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "cap-green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "cigarette"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "external_url": "https://smolverse.lol",
+    "name": "Smol #5092",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "none"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "gangster"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mask"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 5
+        }
+    ]
+}

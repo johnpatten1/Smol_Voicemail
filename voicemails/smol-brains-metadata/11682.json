@@ -1,0 +1,52 @@
+{
+    "name": "Smol #11682",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 3115,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "snowy mountains"
+        },
+        {
+            "trait_type": "Body",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "polar suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "nightmare face"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "polar bear hat"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "penguin gum"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "female"
+        }
+    ]
+}

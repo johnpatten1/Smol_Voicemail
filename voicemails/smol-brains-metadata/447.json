@@ -1,0 +1,52 @@
+{
+    "name": "Smol #447",
+    "attributes": [
+        {
+            "trait_type": "IQ",
+            "value": 2479,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "IQ Pending",
+            "value": 1307,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Head Size",
+            "value": 0,
+            "display_type": "numeric"
+        },
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Body",
+            "value": "black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "cyber"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "none"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "none"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "none"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "male"
+        }
+    ]
+}
